@@ -1,5 +1,5 @@
 {
-    "name": "voronkovich/sberbank-acquiring-client",
+    "name": "bronsd/sberbank-acquiring-client",
     "type": "library",
     "description": "Client for working with Sberbank's acquiring REST API",
     "keywords": ["sberbank", "acquiring", "credit card", "client"],
@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Voronkovich\\SberbankAcquiring\\": "src/"
+            "Bronsd\\SberbankAcquiring\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Voronkovich\\SberbankAcquiring\\Tests\\": "tests/"
+            "Bronsd\\SberbankAcquiring\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "stable"
