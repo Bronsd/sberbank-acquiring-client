@@ -11,7 +11,7 @@ PHP client for [Sberbank](https://securepayments.sberbank.ru/wiki/doku.php/integ
 ## Installation
 
 ```sh
-composer require 'voronkovich/sberbank-acquiring-client'
+composer require 'bronsd/sberbank-acquiring-client'
 ```
 
 ## Usage
